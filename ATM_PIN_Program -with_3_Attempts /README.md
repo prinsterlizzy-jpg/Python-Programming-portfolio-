@@ -49,7 +49,5 @@ Once logged in, user can:
    or
    python mini_atm.py
 
-   📸 Screenshots (Optional)
-
-Add your terminal screenshots here to make the portfolio richer.
-   
+   📸 
+![image](https://github.com/user-attachments/assets/82aed1e7-2eaa-48f6-8ff9-150820df48fd)
