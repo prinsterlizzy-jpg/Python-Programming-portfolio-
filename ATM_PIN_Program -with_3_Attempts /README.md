@@ -1,1 +1,55 @@
+# 🏦 Python ATM Machine Project  
+A simple and beginner-friendly Python project that simulates an ATM Machine.  
+This project includes **PIN creation**, **login with 3 attempts**, and a full **ATM menu system** (Check Balance, Deposit, Withdraw, Exit).
 
+---
+
+## 🔧 Features
+
+### ✔ ATM PIN System
+- User creates a 4-digit PIN  
+- Login requires the correct PIN  
+- Only 3 attempts allowed  
+- Locks the account after 3 failed tries  
+
+### ✔ ATM Menu  
+Once logged in, user can:
+1. **Check Balance**  
+2. **Deposit Money**  
+3. **Withdraw Money**  
+4. **Exit ATM**
+
+### ✔ Error Handling
+- Prevents withdrawal above available balance  
+- Ensures user selects a valid menu option  
+
+---
+
+## 📂 Project Files
+| File Name | Description |
+|----------|-------------|
+| `atm_pin.py` | Basic PIN system with 3 login attempts |
+| `mini_atm.py` | Full ATM system with menu, deposit, withdraw, and balance |
+
+---
+
+## 🖥 How to Run the Project
+
+1. Make sure you have **Python installed** on your system.  
+   Check with:  
+   ```bash
+   python --version
+
+   2.	Clone or download this project:
+   git clone https://github.com/prinsterlizzy-jpg/python-atm-project.git
+   
+   3.	Run any file:
+   bash
+   python atm_pin.py
+   or
+   python mini_atm.py
+
+   📸 Screenshots (Optional)
+
+Add your terminal screenshots here to make the portfolio richer.
+   
