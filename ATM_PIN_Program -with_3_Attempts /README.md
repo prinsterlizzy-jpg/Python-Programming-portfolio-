@@ -30,10 +30,21 @@ Once logged in, user can:
 |----------|-------------|
 | `atm_pin.py` | Basic PIN system with 3 login attempts |
 | `mini_atm.py` | Full ATM system with menu, deposit, withdraw, and balance |
+### **7️⃣ ATM Machine (OOP Version) — NEW**
+A clean and structured Object-Oriented ATM System.  
+Features:
+- PIN authentication (3 attempts)  
+- Deposit, Withdraw, Check Balance  
+- Error handling  
+- Class-based design (`ATM` class with methods)  
+
+This project demonstrates real OOP application in Python.  
+> Folder: `07_atm_oop/`
 
 ---
 
-## 🖥 How to Run the Project
+## 🚀 How to Run Any Project
+---
 
 1. Make sure you have **Python installed** on your system.  
    Check with:  
@@ -48,6 +59,7 @@ Once logged in, user can:
    python atm_pin.py
    or
    python mini_atm.py
-
+   or
+   python 07_atm_oop/atm_oop.py
    📸 
 ![image](https://github.com/user-attachments/assets/82aed1e7-2eaa-48f6-8ff9-150820df48fd)
