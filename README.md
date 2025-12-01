@@ -62,5 +62,5 @@ python 02_mini_atm/mini_atm.py
 	•	Simple system simulations
 	• Flask for CBT System online version
 📸 Screenshots
-
-Each project folder includes a screenshots/ directory where you can upload your own images later.
+project1 👇👇👇
+![image](https://github.com/user-attachments/assets/a40757b9-5339-423c-abf8-9d51b7973159)
