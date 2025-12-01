@@ -63,4 +63,4 @@ python 02_mini_atm/mini_atm.py
 	• Flask for CBT System online version
 📸 Screenshots
 project1 👇👇👇
-![image](https://github.com/user-attachments/assets/a40757b9-5339-423c-abf8-9d51b7973159)
+![image](https://github.com/user-attachments/assets/2ad858f8-b11c-4f59-b138-73c4fa380fc9)
