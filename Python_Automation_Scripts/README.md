@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="<img width="1536" height="1024" alt="image" src="<img width="1536" height="1024" alt="src="https://github.com/user-attachments/assets/e1936289-bab5-4463-b856-e0c4c2116b7e"width="120"/>
+  <img src="<img width="1536" height="1024" alt="image" src="<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e1936289-bab5-4463-b856-e0c4c2116b7e"width="120"/>
 </p>
 
 <h1 align="center">Python Automation Scripts</h1>
