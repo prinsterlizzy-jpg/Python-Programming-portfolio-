@@ -38,8 +38,47 @@ Includes features like:
 - Result display  
 - Can be extended to an online version using Flask or Django  
 > Folder: `06_cbt_system_online/`
+> Python Automation Scripts
+⚡ Features
 
----
+✉️ Email Automation
+	•	Send plain emails
+	•	Send HTML emails
+	•	Send emails with attachments
+	•	Bulk sending from CSV/Excel
+	•	Personalized templates
+
+🗂 File & Folder Automation
+	•	Auto-sort files by extension
+	•	Bulk rename files
+	•	Auto-create folder structures
+
+🌐 Web Automation
+	•	Web scraping with BeautifulSoup
+	•	API automation (GET, POST)
+	•	Website metadata extraction
+
+🖼 PDF & Image Automation
+	•	Merge PDFs
+	•	Resize images
+	•	Convert between formats
+
+📊 Excel & Data Automation
+	•	Convert Excel → CSV
+	•	Data extraction
+	•	Basic transformations
+
+⏱ Task Scheduling
+	•	Run any script automatically
+	•	Set intervals (every X minutes)
+
+🛠 Installation
+
+Clone the repository:git clone https://github.com/prinsterlizzy-jpg/python-automation-scripts.git
+cd python-automation-scripts
+
+Install dependencies:pip install -r requirements.txt
+
 
 ## 🚀 How to Run Any Project
 
@@ -51,7 +90,7 @@ python --version
 Run a file
 python folder_name/file.py
 bash
-python 02_mini_atm/mini_atm.py
+python 02_mini_atm/
 
 🛠 Tools & Skills Used
 	•	Python 3
@@ -61,6 +100,17 @@ python 02_mini_atm/mini_atm.py
 	•	Basic data storage
 	•	Simple system simulations
 	• Flask for CBT System online version
-📸 Screenshots
-project1 👇👇👇
+🤝 Contributing
+
+Pull requests are welcome!
+For major changes, please open an issue first.
+
+📜 License
+
+This project is licensed under the MIT License — feel free to use it.
+
+⭐ Support the Project
+
+If this helped you, please give the repo a ⭐ star!
+
 ![image](https://github.com/user-attachments/assets/2ad858f8-b11c-4f59-b138-73c4fa380fc9)
