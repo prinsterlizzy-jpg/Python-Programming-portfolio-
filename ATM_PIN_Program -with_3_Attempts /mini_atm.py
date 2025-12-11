@@ -1,4 +1,4 @@
- Step 1: Create ATM PIN
+ # Step 1: Create ATM PIN
 pin = int(input("Create your 4-digit PIN: "))
 print("✅ PIN successfully created!")
 
