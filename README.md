@@ -1,4 +1,4 @@
-# 🐍 Python Programming Portfolio
+# Python Programming Portfolio
 
 Welcome to my Python Programming Portfolio — a collection of practical, beginner-friendly to intermediate Python projects.  
 This portfolio showcases my understanding of core Python concepts such as loops, conditionals, functions, user input handling, simple data structures, and real-world logical problem-solving.
