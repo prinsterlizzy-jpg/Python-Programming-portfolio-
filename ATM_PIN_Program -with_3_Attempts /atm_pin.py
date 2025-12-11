@@ -1,4 +1,4 @@
-🏦 ATM PIN Program with 3 Attempts
+# ATM PIN Program with 3 Attempts
 
 
 # Step 1: Create your ATM PIN
