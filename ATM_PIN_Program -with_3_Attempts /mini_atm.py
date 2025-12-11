@@ -1,4 +1,4 @@
-🏦 Mini ATM Machine Project
+# Mini ATM Machine Project
 
 
 # Step 1: Create ATM PIN
