@@ -1,4 +1,4 @@
-# 🏦 Python ATM Machine Project  
+#  Python ATM Machine Project  
 A simple and beginner-friendly Python project that simulates an ATM Machine.  
 This project includes **PIN creation**, **login with 3 attempts**, and a full **ATM menu system** (Check Balance, Deposit, Withdraw, Exit).
 
