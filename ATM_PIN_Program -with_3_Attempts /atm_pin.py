@@ -1,6 +1,3 @@
-# ATM PIN Program with 3 Attempts
-
-
 # Step 1: Create your ATM PIN
 pin = int(input("Create your 4-digit PIN: "))
 print("✅ PIN successfully created!")
